@@ -58,11 +58,10 @@ public class mergesort {
     }
 
     public static void main(String args[]) {
+
+        //masukan angka yang ingin di test disini
         int datatest[] = {
-            150, 147, 142, 139, 135, 133, 130, 128, 125, 121, 118,
-            115, 110, 108, 105, 100, 99, 95, 92, 88,
-            85, 80, 77, 75, 71, 68, 65, 62, 60, 55, 52, 49,
-            45, 41, 38, 35, 30, 28, 24, 20, 15, 10, 3
+             8, 3, 9, 1, 0, 7, 2, 6, 4
         };
 
         System.out.println("Data blm urut: " + Arrays.toString(datatest));
