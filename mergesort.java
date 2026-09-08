@@ -59,7 +59,7 @@ public class mergesort {
 
     public static void main(String args[]) {
 
-        //masukan angka yang ingin di test disini
+        //masukan angka yang ingin di test disii
         int datatest[] = {
              8, 3, 9, 1, 0, 7, 2, 6, 4
         };
