@@ -1,8 +1,8 @@
-# Tugas Desain Analisis Algortima
+# Tugas Desain Analisis Algoritma
 
 Disusun guna memenuhi tugas mata kuliah Desain Analisis dan Algoritma
 Dosen Pengampu :  
-Prof. Arif Rohmadi, S.Kom., M.Cs.
+Arif Rohmadi, S.Kom., M.Cs.
 
 
 ## Nama Anggota Kelompok 10:
