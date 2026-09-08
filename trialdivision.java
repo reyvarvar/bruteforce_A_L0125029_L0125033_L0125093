@@ -13,10 +13,10 @@ public class trialdivision{
         }
 
       
-        if (input % 2 == 0 || input % 3 == 0) {
+        if (input % 2 == 0 ) {
             return false;
         }
-        for (int i = 5; i <= kuadrat; i += 2) { 
+        for (int i = 3; i <= kuadrat; i += 2) { 
             if (input % i == 0) {
                 return false; 
             }
@@ -26,11 +26,13 @@ public class trialdivision{
     }
 
     public static void main(String[] args) {
+
+        //masukan angka yang ingin di test disini
         int tes_angka = 519; 
 
         long start = System.nanoTime();
 
-        if (algoritma(tes_angka)) {
+        if (algoritma(tes_angka)) {         
             System.out.println(tes_angka + " adalah bilangan prima");
         } else {
             System.out.println(tes_angka + " bukan bilangan prima");
